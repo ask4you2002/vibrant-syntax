@@ -1,0 +1,16 @@
+{
+  "name": "vibrant-syntax",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "Light vibrant syntax theme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "light"
+  ],
+  "repository": "https://github.com/ask4you2002/vibrant-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
